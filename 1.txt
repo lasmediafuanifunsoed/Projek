@@ -1,1 +1,4 @@
 Ini ujicoba yang pertama
+ini baris ke 2
+ini baris ke 3
+ini baris ke 4
